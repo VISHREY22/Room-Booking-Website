@@ -1,0 +1,136 @@
+[
+    {
+        "name": "Premium King Room",
+        "imageurls": [
+            "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1618773928121-c32242e63f39?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rentperday": 13117,
+        "type": "Delux",
+        "phonenumber": 6200069869,
+        "currentbookings": [],
+        "size": "30 ft",
+        "capacity": "2 Adults / 4 Children",
+        "bed": "King Size Bed",
+        "services": [
+            "Free WiFi",
+            "Television",
+            "Cable TV",
+            "Mini Bar",
+            "Iron & Ironing Board",
+            "Hair Dryer"
+        ]
+    },
+    {
+        "name": "Deluxe Room",
+        "imageurls": [
+            "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rentperday": 14000,
+        "type": "Delux",
+        "phonenumber": 6200069869,
+        "currentbookings": [],
+        "size": "30 ft",
+        "capacity": "2 Adults 1 Child / 5 Children",
+        "bed": "King Size Bed",
+        "services": [
+            "Free WiFi",
+            "Television",
+            "Cable TV",
+            "Mini Bar",
+            "Iron & Ironing Board",
+            "Hair Dryer"
+        ]
+    },
+    {
+        "name": "Double Room",
+        "imageurls": [
+            "https://plus.unsplash.com/premium_photo-1674676471380-1258cb31b3ac?q=80&w=1618&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1586105251261-72a756497a11?q=80&w=1858&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rentperday": 7000,
+        "type": "Non Delux",
+        "phonenumber": 6200069869,
+        "currentbookings": [],
+        "size": "30 ft",
+        "capacity": "2 People Max",
+        "bed": "King Size Bed",
+        "services": [
+            "Television",
+            "Cable TV"
+        ]
+    },
+    {
+        "name": "Luxury Room",
+        "imageurls": [
+            "https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1572987669554-0ba2ba9aee1f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rentperday": 15000,
+        "type": "Delux",
+        "phonenumber": 6200069869,
+        "currentbookings": [],
+        "size": "30 ft",
+        "capacity": "2 People Max",
+        "bed": "King Size Bed",
+        "services": [
+            "Free WiFi",
+            "Television",
+            "Cable TV",
+            "Mini Bar",
+            "Iron & Ironing Board",
+            "Hair Dryer",
+            "Personal Kitchen",
+            "View Balcony",
+            "Jakusi",
+            "Recliner Sofa And Chairs"
+        ]
+    },
+    {
+        "name": "Room With View",
+        "imageurls": [
+            "https://images.unsplash.com/photo-1587985064135-0366536eab42?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1609602126247-4ab7188b4aa1?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1678297270033-2b6902e1b5dc?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rentperday": 6000,
+        "type": "Non Delux",
+        "phonenumber": 6200069869,
+        "currentbookings": [],
+        "size": "30 ft",
+        "capacity": "1 People Max",
+        "bed": "King Size Bed",
+        "services": [
+            "Television",
+            "Cable TV",
+            "Hair Dryer",
+            "View Balcony(8x8 sqft)"
+        ]
+    },
+    {
+        "name": "Small View",
+        "imageurls": [
+            "https://images.unsplash.com/photo-1700004060538-cb750e9a2992?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1630994347131-96d17ec41ba2?q=80&w=1744&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1682204803376-1c7dae90db28?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rentperday": 5000,
+        "type": "Non Delux",
+        "phonenumber": 6200069869,
+        "currentbookings": [],
+        "size": "30 ft",
+        "capacity": "2 People Max",
+        "bed": "King Size Bed",
+        "services": [
+            "Television",
+            "Cable TV",
+            "Hair Dryer",
+            "View Balcony(4x4 sqft)"
+        ]
+    }
+]
