@@ -2,7 +2,7 @@ import React from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import './ImageSlider.css'; // Import CSS file for additional styling if needed
+import './ImageSlider.css'; 
 import about1 from './about/about-1.jpg';
 import about2 from './about/about-2.jpg';
 import blog1 from './blog/blog-1.jpg';
@@ -20,7 +20,7 @@ function ImageSlider({ slides }) {
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
-        autoplaySpeed: 3000, // Set autoplay speed to 3 seconds
+        autoplaySpeed: 3000,
         arrows: true,
     };
 
@@ -45,7 +45,6 @@ function ImageSlider({ slides }) {
             <br />
             <br />
             <br />
-            {/* <!-- About Us Section Begin --> */}
             <section className="aboutus-section spad">
                 <div className="container c11">
                     <div className="row">
@@ -78,9 +77,7 @@ function ImageSlider({ slides }) {
                 </div>
             </section>
             <br /><br /><br /><br />
-            {/* <!-- About Us Section End --> */}
 
-            {/* <!-- Services Section End --> */}
             <section className="services-section spad">
                 <div className="container c11">
                     <div className="row">
@@ -142,9 +139,7 @@ function ImageSlider({ slides }) {
                     </div>
                 </div>
             </section>
-            {/* <!-- Services Section End --> */}
             <br /><br />
-            {/* <!-- Blog Section Begin --> */}
             <section class="blog-section spad">
                 <div class="container" >
                     <div class="row">
@@ -220,9 +215,7 @@ function ImageSlider({ slides }) {
                     </div>
                 </div>
             </section>
-            {/* <!-- Blog Section End --> */}
             <br /><br />
-            {/* <!-- Footer Section Begin --> */}
             <footer className="footer-section">
                 <div className="container">
                     <div className="row">
@@ -236,8 +229,6 @@ function ImageSlider({ slides }) {
                     </div>
                 </div>
             </footer>
-            {/* <!-- Footer Section End --> */}
-
         </>
     );
 }
