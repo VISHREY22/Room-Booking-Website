@@ -57,7 +57,7 @@ router.post('/cancelbooking', async (req, res) => {
         room.currentbookings = currentBookings;
         await room.save();
 
-        res.send("Successfully Cancelled"); // Corrected spelling mistake here
+        res.send("Successfully Cancelled");
     } catch (error) {
         return res.status(400).json({ error });
     }
