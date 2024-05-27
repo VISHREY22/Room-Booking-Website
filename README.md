@@ -1,8 +1,8 @@
-Hotel Zaara
+> **Hotel** Zaara
 
 A Hotel that provides rooms according to your life style, your requirements, the number of people etc.
 
-Tech Stack :
+**_Tech Stack_** :
 
 Client Side:  React JS, HTML, CSS, Java Script
 
