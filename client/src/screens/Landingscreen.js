@@ -9,7 +9,6 @@ function Landingscreen() {
         { id: 1, imageUrl: hero1 },
         { id: 2, imageUrl: hero2 },
         { id: 3, imageUrl: hero3 },
-        // Add more slides as needed
     ];
 
     return (
