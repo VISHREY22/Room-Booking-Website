@@ -25,7 +25,7 @@ function Navbar() {
                   </button>
                   <ul className="dropdown-menu">
                     <li><a className="dropdown-item" href="/profile">Profile</a></li>
-                    <li><a className="dropdown-item" href="/" onClick={handleLogout}>Log Out</a></li> {/* Add onClick event handler */}
+                    <li><a className="dropdown-item" href="/" onClick={handleLogout}>Log Out</a></li>
                   </ul>
                 </div>
               </>
