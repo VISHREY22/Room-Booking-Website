@@ -1,6 +1,6 @@
 ### > **Hotel** Zaara
 
-A Hotel that provides rooms according to your life style, your requirements, the number of people etc.
+A Hotel that provides rooms with services according to your life style, your requirements,your budget, the number of people.
 
 ### > **_Tech Stack_** :
 
