@@ -1,6 +1,5 @@
-// Landingscreen.js
 import React from 'react';
-import ImageSlider from './ImageSlider'; // Assuming ImageSlider component is in the same directory
+import ImageSlider from './ImageSlider';
 import hero1 from'./hero/hero-1.jpg'
 import hero2 from './hero/hero-2.jpg'
 import hero3 from './hero/hero-3.jpg'
