@@ -208,7 +208,6 @@ input {
 .form-control {
   border: 2px solid black;
   outline: none;
-  /* Remove the default outline */
 }
 .sel-1 {
   border: 2px solid black;
