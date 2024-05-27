@@ -1,4 +1,3 @@
-// RegistrationForm.js
 import axios from 'axios';
 import React, { useState } from 'react';
 import Success from '../components/Success';
