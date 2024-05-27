@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-var mongoURL = 'mongodb://localhost:27017/mern-rooms';
+var mongoURL = 'YOUR MONGODB URL';
 
 mongoose.connect(mongoURL,{useUnifiedTopology: true , useNewUrlParser: true})
 var connection = mongoose.connection;
